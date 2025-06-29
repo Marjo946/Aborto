@@ -1,0 +1,13 @@
+
+## ⚙️ Requisitos
+
+Este script fue desarrollado con **Python 3.8+** y requiere las siguientes bibliotecas:
+
+- pandas
+- matplotlib
+- seaborn
+
+Puedes instalarlas usando:
+
+```bash
+pip install pandas matplotlib seaborn
