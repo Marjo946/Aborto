@@ -1,0 +1,1 @@
+python analisis_actitudes.py
